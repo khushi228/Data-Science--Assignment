@@ -375,6 +375,7 @@ confusionMatrix(predictions, as.factor(test_data$stars.x))
 ```
 
 ## Analysis of Method - Report
+Link to Github : https://github.com/khushi228/Data-Science--Assignment
 
 The DS Methodology that I decided to follow was the CRISP-DM Method because it lent itself perfectly to my approach.
 I applied it by structuring my approach based on the iterative life-cycle process.
